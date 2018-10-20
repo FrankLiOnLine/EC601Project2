@@ -4,7 +4,7 @@ EC601 project #2
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. The aiming of this project is implemetation of flower species classification. You can test with any pictures contains a flower in the main part. The code will return a prediction accuracy and the flower class index.
 
 ### Prerequisites
 
