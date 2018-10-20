@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Python Version: 3<br>
 Packages needed: tensorflow // tflearn<br>
 To save your time, you can also download the trained model at https://drive.google.com/open?id=1hxrbCUVFrJHpfl4fa4AwTpsr23k0iAgP<br>
-Please make sure the four files is in a folder named model, and put the model folder together with your code.<br>
+Please make sure the four files are in a folder named model, and put the model folder together with your code.<br>
 The size of this model is beyond GitHub 100MB limit, so I can't upload it here.
 
 ## Running the tests
